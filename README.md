@@ -1,2 +1,5 @@
-# WebAppExample-NetWorkMonitoring
-Java server : API + Hibernate JPA + HyperSQL, Client :  Build from React + React-Router-Dom + React-Bootstrap
+# Template Web app
+
+[Create JAX-RS REST CRUD API's with Jersey, JPA, Hibernate, hibernate-c3p0 CP, and MySQL/H2]
+
+(principal source https://www.javachinna.com/jersey-rest-crud-api/)
